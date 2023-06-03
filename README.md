@@ -1,5 +1,7 @@
 # my-key-mapping
-These are my mac key mapping and the karabiner config file 
+These are my mac key mapping and the [karabiner](https://karabiner-elements.pqrs.org/docs/getting-started/features/) config file.
+
+These mappings enhance the efficiency and enjoyment of coding!
 
 
 
